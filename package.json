@@ -1,0 +1,8 @@
+{
+  "name": "webpackConfig",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ztever/webpackConfig.git",
+  "author": "ztever <tao.zong.ever@gmail.com>",
+  "license": "MIT"
+}
